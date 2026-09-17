@@ -128,7 +128,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Quản Lý Sản Phẩm</h1>
+      <h1>Quản Lý Sản Phẩm - CI/CD</h1>
 
       {/* FORM */}
       <form
