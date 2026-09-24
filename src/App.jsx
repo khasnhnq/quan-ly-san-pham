@@ -171,7 +171,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>ID key</th>
+            <th>ID</th>
             <th>Tên sản phẩm</th>
             <th>Giá</th>
             <th>Số lượng</th>
